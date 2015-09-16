@@ -4,7 +4,7 @@ Overview
 --------
 
 There is a saying in volleyball: "Who doesn't win 3:0, loses 2:3". This project
-consists of two executabled aimed at checking that proverb. 
+consists of two executables aimed at checking that proverb.
 
 * scraper - downloads and scrapes match results from
   [http://www.worldofvolley.com](http://www.worldofvolley.com )
@@ -28,7 +28,7 @@ Using Stack is recommended:
 
 Usage
 -----
- 
+
 Provide the output filename to scraper:
 
     stack exec scraper mr.csv
